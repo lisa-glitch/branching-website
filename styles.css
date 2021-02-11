@@ -1,0 +1,15 @@
+h1 {
+  color:gold;
+}
+h2 {
+  color:blue;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  font-style: oblique;
+}
+p{
+  color: black;
+}
+body{
+  background-color:gray;
+}
